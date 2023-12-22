@@ -24,7 +24,7 @@ Tues/Thurs 1.30 PM-2.45 PM
 |4| Jan 30, Feb 1|Arrange Tables | Ch 7 | HW3 - Re-Create Charts|
 |5| Feb 6, 8| Tour through the Visualization Zoo | | Semester Project|
 |6| Feb 13, 15| Tue: Map Color and Other Channels<br/>Thu: *Review for Mid-Term Exam* | Ch 10 | HW4 - Arrange Tables|
-|7| Feb 20, 22| Tue: **NO CLASS - self-study**<br/>Thu: **MID-TERM EXAM**| |
+|7| Feb 20, 22| Tue: **NO CLASS-self-study**<br/>Thu: **MID-TERM EXAM**| |
 |8| Feb 27, 29| Maps, Rules of Thumb, Chart Design| Ch 8.1-8.3<br/>Ch 6 | |
 |9| Mar 5, 7| Reduce Items, Exploratory Data Analysis (EDA) | Ch 13<br/>(through 13.4.1) | HW5 - Analyzing Data Using Distribution Charts|
 |10| Mar 12, 14| Storytelling Vis| | |
