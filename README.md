@@ -1,6 +1,6 @@
 # ODU CS 625 - Data Visualization, Spring 2024 - Ashok Kumar Veerasamy
 
-Tues/Thurs 11am-12:15pm  
+Tues/Thurs 1.30 PM-2.45 PM  
 [Batten Arts & Letters (BAL)](https://odu.edu/ts/labs-classrooms/technology-classrooms/bal) 2063
 
 ## Links
