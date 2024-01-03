@@ -14,7 +14,7 @@ Tues/Thurs 1.30 PM-2.45 PM
 
 ## Summary Schedule
 
-*This schedule will not be updated after the semester begins.  See the [Summary Schedule on Canvas](https://canvas.odu.edu/courses/140707) for the updated schedule.*
+*This schedule will not be updated after the semester begins.  See the [Summary Schedule on Canvas](https://canvas.odu.edu/courses/152735)) for the updated schedule.*
 
 |Week |Date|Topic| Textbook Reading|Resources and Assignments|
 |---|---|---|---|---|
