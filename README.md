@@ -6,7 +6,7 @@ Tues/Thurs 1.30 PM-2.45 PM
 ## Links
 
 * [Syllabus](syllabus2024.md)
-* [Course Materials on Canvas](https://canvas.odu.edu/courses/140707](https://canvas.odu.edu/courses/152735/modules)
+* [Course Materials on Canvas](https://canvas.odu.edu/courses/152735/modules)
 * [Topic Objectives](objectives.md)
 * [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
   * [TM VAD lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides) by Tamara Munzner (textbook author)
