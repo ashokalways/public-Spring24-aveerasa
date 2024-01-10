@@ -1,6 +1,6 @@
 # Homework 2: Data Cleaning
 
-**Due:** Wednesday, January 31, 2024 by 11:59pm  
+**Due:** Wednesday, January 31, 2024, by 11:59 pm  
 
 The goal of this week's assignment is to gain experience using OpenRefine for data cleaning.  
 
@@ -87,8 +87,7 @@ Submit the URL of your report (*not the URL of your repo*) in Canvas under HW2. 
 https<nolink>://github.com/odu-cs625-datavis/Spring24-asv-*username*/blob/main/HW2-report.md
 
 *If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.*
-Reference:
-Dataset: 
-https://medium.com/@FranciscoHinojosaLuna/5-datasets-to-practice-data-cleaning-27378f422e1c 
 
-DS JOBS : https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv
+## Reference:
+- Dataset: https://medium.com/@FranciscoHinojosaLuna/5-datasets-to-practice-data-cleaning-27378f422e1c 
+- DS JOBS: https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv
