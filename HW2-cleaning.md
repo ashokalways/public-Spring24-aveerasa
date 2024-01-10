@@ -87,7 +87,3 @@ Submit the URL of your report (*not the URL of your repo*) in Canvas under HW2. 
 https<nolink>://github.com/odu-cs625-datavis/Spring24-asv-*username*/blob/main/HW2-report.md
 
 *If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.*
-
-## Reference:
-- Dataset: https://medium.com/@FranciscoHinojosaLuna/5-datasets-to-practice-data-cleaning-27378f422e1c 
-- DS JOBS: https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv
