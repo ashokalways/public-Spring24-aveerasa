@@ -10,7 +10,7 @@ The goal of this assignment is gain experience creating distribution charts (his
 
 To start your analysis, create a **boxplot**, **histogram**, and **eCDF** for the distributions described below. 
 
-You may use whatever tools you wish to manipulate the data and create the charts. Remember that CS students must create their charts using Python or Vega-Lite in at least two HW assignments. All students may pull the datasets into a separate application and format as needed.  
+You may use whatever tools you wish to manipulate the data and create the charts. Remember that CS students must create their charts using Python or Vega-Lite. Students from other stream should use Python or Vega lite to create one of their charts. All students may pull the datasets into a separate application and format as needed.  
 
 All of the datasets for this assignment come from [2010 Statistical Abstract of the United States](https://www.census.gov/library/publications/2009/compendia/statab/129ed.html). 
 
@@ -32,7 +32,7 @@ Pick **one** of the three datasets to work with:
    * eCDF and histogram: Show the distribution of population density in one of the years (your chart title must indicate which year)
       * your histogram should use a reasonable bin size for the data
 
-3) Section 4. [Education](https://www.census.gov/library/publications/2009/compendia/statab/129ed/education.html)Table 228 - Educational attainment by State [pg. 41 in PDF](https://www2.census.gov/library/publications/2010/compendia/statab/129ed/tables/educ.pdf)
+3) Section 4. [Education](https://www.census.gov/library/publications/2009/compendia/statab/129ed/education.html) Table 228 - Educational attainment by State [pg. 41 in PDF](https://www2.census.gov/library/publications/2010/compendia/statab/129ed/tables/educ.pdf)
    * boxplot: Show the distributions of high school graduate, Bachelor's degree, and Advanced degree by state in 2007 
       * this should result in 3 separate boxplot glyphs in a single chart
    * eCDF and histogram: Show the distribution of either the High school graduate or Advanced degree in 2006 (your chart title must indicate which)
