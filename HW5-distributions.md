@@ -1,6 +1,6 @@
 # Homework 5: Analyzing Data Using Distribution Charts
 
-**Due:** Wednesday, November 8, 2023 by 11:59pm  
+**Due:** Saturday, March 30, 2024 by 11:59pm  
 
 The goal of this assignment is gain experience creating distribution charts (histogram, eCDF, boxplot) and using them to help guide further analysis of the underlying data.
 
@@ -12,7 +12,7 @@ To start your analysis, create a **boxplot**, **histogram**, and **eCDF** for th
 
 You may use whatever tools you wish to manipulate the data and create the charts. Remember that CS students must create their charts using Python or Vega-Lite in at least two HW assignments. All students may pull the datasets into a separate application and format as needed.  
 
-All of the datasets for this assignment come from [Section 1. Population](https://www.census.gov/library/publications/2009/compendia/statab/129ed/population.html) from the [2010 Statistical Abstract of the United States](https://www.census.gov/library/publications/2009/compendia/statab/129ed.html). In addition to looking at the Excel spreadsheets for the Tables listed below, you should also view the [Section 1 PDF](https://www2.census.gov/library/publications/2010/compendia/statab/129ed/tables/pop.pdf). 
+All of the datasets for this assignment come from [2010 Statistical Abstract of the United States](https://www.census.gov/library/publications/2009/compendia/statab/129ed.html). 
 
 Both the PDF tables and the Excel spreadsheets contain Notes that you should read. In particular, many of the population figures are in thousands, so you may need to do some adjustments to your data to produce accurate distributions.
 
@@ -20,22 +20,22 @@ Both the PDF tables and the Excel spreadsheets contain Notes that you should rea
 
 Pick **one** of the three datasets to work with:
 
-1) Table 12 - Resident Population--States (pg. 21 in PDF)
-   * boxplot: Show the distributions of the population of all states in 1980, 2000 (either April or July), and 2008
+1) Section 14. [Prices](https://www.census.gov/library/publications/2009/compendia/statab/129ed/prices.html). Table 713 - Single-Family Housing price Indexes by State [pg. 11 in PDF](https://www2.census.gov/library/publications/2010/compendia/statab/129ed/tables/prices.pdf)
+   * boxplot: Show the Single-famiy housing price indexes of all states in 1995, 2000, and 2008
       * this should result in 3 separate boxplot glyphs in a single chart
-   * eCDF and histogram: Show the distribution of the population of all states in one of the years (your chart title must indicate which year)
+   * eCDF and histogram: Single-famiy housing price indexes of all states in one of the years (your chart title must indicate which year)
       * your histogram should use a reasonable bin size for the data
    
-2) Table 13 - State Population--Rank, Percent Change, And Population Density (pg. 22 in PDF)
+2) Section 1. [Population](https://www.census.gov/library/publications/2009/compendia/statab/129ed/population.html) Table 13 - State Population--Rank, Percent Change, And Population Density [pg. 22 in PDF](https://www2.census.gov/library/publications/2010/compendia/statab/129ed/tables/pop.pdf)
    * boxplot: Show the distributions of the population density (Population per square mile of land area) in 1990, 2000, and 2008 
       * this should result in 3 separate boxplot glyphs in a single chart
    * eCDF and histogram: Show the distribution of population density in one of the years (your chart title must indicate which year)
       * your histogram should use a reasonable bin size for the data
 
-3) Table 29 - Urban and Rural Population by State (pg. 41 in PDF)
-   * boxplot: Show the distributions of the urban and rural populations in 2000 
-      * this should result in 2 separate boxplot glyphs in a single chart
-   * eCDF and histogram: Show the distribution of either the urban or rural population in 2000 (your chart title must indicate which)
+3) Section 4. [Education](https://www.census.gov/library/publications/2009/compendia/statab/129ed/education.html)Table 228 - Educational attainment by State [pg. 41 in PDF](https://www2.census.gov/library/publications/2010/compendia/statab/129ed/tables/educ.pdf)
+   * boxplot: Show the distributions of high school graduate, Bachelor's degree, and Advanced degree by state in 2007 
+      * this should result in 3 separate boxplot glyphs in a single chart
+   * eCDF and histogram: Show the distribution of either the High school graduate or Advanced degree in 2006 (your chart title must indicate which)
       * your histogram should use a reasonable bin size for the data
 
 ### Part 2: Further Analysis
