@@ -152,7 +152,7 @@ I reserve the right to specify that late submissions will not be accepted for pa
 |6| Tue, Feb 13<br/>Thu, Feb 15| Map Color and Other Channels<br/>Review for Mid-Term Exam | Ch 10|
 |7| Tue, Feb 20<br/>Thu, Feb 22| **NO CLASS - Study Mid term exam**<br/>**MID-TERM EXAM**| |
 |8| Feb 27, 29| Maps, Rules of Thumb, Chart Design| Ch 6, Ch 8.1-8.3|
-|9| Mar 5, 7| Reduce Items, Exploratory Data Analysis (EDA) | Ch 13 (through 13.4.1)
+|9| Mar 5, 7| Reduce Items, Exploratory Data Analysis (EDA) | Ch 13 (through 13.4.1):Self study, Spring holidays
 |10| Mar 12, 14| Storytelling Vis |
 |11| Mar 19, 21|  Multiple Views | Ch 12 (skip 12.4.4) |
 |12 13| Tue, Mar 26<br/>Thu, Mar 28|Visualization Literacy, p1<br/>Visualization Literacy p2 | |
